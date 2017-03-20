@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/.android/build-cache/0c3ec9963ef8d5e1f9ef7133f5e9802deb617202/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/tong-ilsong/Desktop/NaverTTS2016-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_484571eba99c925c9d4af8a1ab9d5476eaf2b351/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/.android/build-cache/a5581dc5fb0e18f15915abd31babc8873abbf894/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/tong-ilsong/Desktop/NaverTTS2016-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c87446f31650ad1402300532fce088456cdb539c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/.android/build-cache/f5ca5095154d5a3c98f3b33278d06d8be81360f7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/tong-ilsong/Desktop/NaverTTS2016-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2e5989b081b6b15abd1ee76f81de6133ce054f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.87.1/6d9a1bba4e31252cc8183aa27a32e6edbdacaeb7/realm-android-0.87.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d9a1bba4e31252cc8183aa27a32e6edbdacaeb7">
+        <dex dex="/Users/tong-ilsong/Desktop/NaverTTS2016-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/realm-android-0.87.1_f2da81776c8fc547723302a3ad894594a1830ea4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Desktop/NaverTTS2016-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/tong-ilsong/Desktop/NaverTTS2016-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0d4284e7b677e3fa9951a276f6db5776f6b4c0bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/.android/build-cache/0f90048330d4bcd991a4948388f7386efdacc52d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/tong-ilsong/Desktop/NaverTTS2016-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6cde4645022dec542ba79ad8df455c1bb372f835/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/tong-ilsong/Desktop/NaverTTS2016-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_9dd5e70b7d2c0f6268228c8994066d52efeb557c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.8.3/65fd012581ded67bc20945d85c32b4598c3a9cf1/jsoup-1.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
+        <dex dex="/Users/tong-ilsong/Desktop/NaverTTS2016-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsoup-1.8.3_6c2cad280ca6bfe7e99b4f8222a5dffa0a287808/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/.android/build-cache/180d93ff1eedeeaec63eae4b2b5c276e4058a2b4/output/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/tong-ilsong/Desktop/NaverTTS2016-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_635b85172ac823b715344efc7bdf01df2c7a500f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/.android/build-cache/1a0d1f39c596263b6dfa110d4f84416383ff15f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
+        <dex dex="/Users/tong-ilsong/Desktop/NaverTTS2016-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_657d1b9b761474f5c5e9067dceee6ea119d2a024/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Desktop/NaverTTS2016-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5152166b61399db918304536e3cdb2770c58f89c">
+        <dex dex="/Users/tong-ilsong/Desktop/NaverTTS2016-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_360511b7fb9dc6a48b56c988441ba8267903b837/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/.android/build-cache/180d93ff1eedeeaec63eae4b2b5c276e4058a2b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/tong-ilsong/Desktop/NaverTTS2016-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70a82b4c6d8d1347c7c942137ec387567ef95874/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/.android/build-cache/e3aaa8908f597fa0dce8efbb75c3225080359855/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e54ea31584406fcc68225a8656f384c333ff2ee">
+        <dex dex="/Users/tong-ilsong/Desktop/NaverTTS2016-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34dd86dcf04ca07b86ecbd25fc93a99dc13ab931/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/tong-ilsong/Desktop/NaverTTS2016-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_7b3be63cef7d27a00754acaad2f97e2858af7e6e/classes.dex" />
+    </item>
+
+</items>
